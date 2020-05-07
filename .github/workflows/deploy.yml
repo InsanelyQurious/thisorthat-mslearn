@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  AZURE_WEBAPP_NAME: "icecreamordog" # set this to your application's name
+  AZURE_WEBAPP_NAME: "covidtrial" # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: "dist" # set this to the path to your web app project, for Vue.js it's dist
   NODE_VERSION: "10.x" # set this to the node version to use
 
